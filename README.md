@@ -10,7 +10,7 @@
 [![Stripe](https://img.shields.io/badge/Stripe-Payment-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/)
 [![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)](https://jwt.io/)
 
-**[📚 API Documentation](https://documenter.getpostman.com/view/51642188/2sBXcBoNTo)** • 
+**[📚 API Documentation](https://documenter.getpostman.com/view/51642188/2sBXcBoNTo)** 
 
 </div>
 
@@ -625,48 +625,8 @@ GET /api/v1/products?category=electronics&price[lte]=500&sort=-ratingsAverage&li
 }
 ```
 
----
 
-## 🧪 Testing
 
-### Run Tests
-
-```bash
-# Install dev dependencies
-npm install --save-dev jest supertest
-
-# Run all tests
-npm test
-
-# Run with coverage
-npm run test:coverage
-
-# Run specific test file
-npm test -- tests/auth.test.js
-```
-
-### Test Example
-
-```javascript
-describe('POST /api/v1/auth/signup', () => {
-  it('should register a new user', async () => {
-    const response = await request(app)
-      .post('/api/v1/auth/signup')
-      .send({
-        name: 'Test User',
-        email: 'test@example.com',
-        password: 'Test123!',
-        passwordConfirm: 'Test123!'
-      });
-    
-    expect(response.status).toBe(201);
-    expect(response.body.data.user).toBeDefined();
-    expect(response.body.data.accessToken).toBeDefined();
-  });
-});
-```
-
----
 
 
 ---
