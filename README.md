@@ -670,49 +670,6 @@ describe('POST /api/v1/auth/signup', () => {
 
 ---
 
-## 🚀 Deployment
-
-### Railway (Recommended)
-
-```bash
-# 1. Install Railway CLI
-npm install -g @railway/cli
-
-# 2. Login
-railway login
-
-# 3. Initialize project
-railway init
-
-# 4. Deploy
-railway up
-
-# 5. Add environment variables in Railway Dashboard
-```
-
-### Heroku
-
-```bash
-# 1. Create Heroku app
-heroku create your-app-name
-
-# 2. Set environment variables
-heroku config:set NODE_ENV=production
-heroku config:set JWT_SECRET=your-secret
-
-# 3. Deploy
-git push heroku main
-```
-
-### Docker
-
-```bash
-# 1. Build image
-docker build -t ecommerce-api .
-
-# 2. Run container
-docker run -p 5000:5000 --env-file .env ecommerce-api
-```
 
 ---
 
