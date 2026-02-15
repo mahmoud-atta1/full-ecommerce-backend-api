@@ -680,12 +680,6 @@ Contributions are what make the open-source community amazing! Any contributions
 
 ---
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
 ## 👨‍💻 Author
 
 **Mahmoud Atta**
