@@ -11,8 +11,6 @@
 [![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)](https://jwt.io/)
 
 **[📚 API Documentation](https://documenter.getpostman.com/view/51642188/2sBXcBoNTo)** • 
-**[🐛 Report Bug](https://github.com/mahmoud-atta1/Full-Ecommerce-Backend-API/issues)** • 
-**[✨ Request Feature](https://github.com/mahmoud-atta1/Full-Ecommerce-Backend-API/issues)**
 
 </div>
 
