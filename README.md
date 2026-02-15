@@ -1,4 +1,4 @@
-# 🚀 E-Commerce Backend API
+# 🚀 Full E-Commerce Backend API
 
 A production-ready **Node.js & Express.js E‑Commerce Backend** built with scalable architecture, security best practices, and advanced API features. This project focuses on clean backend structure, performance, and real-world commerce logic such as authentication, orders, payments, and image processing.
 
@@ -112,7 +112,6 @@ src/
  ├── routes/
  ├── services/
  ├── utils/
- ├── validators/
 ```
 
 ---
@@ -212,6 +211,17 @@ npm run start:dev
 * Nested Routes Support
 * Aggregation Pipelines for Ratings
 * Token Rotation Security Model
+
+---
+
+# 📬 API Documentation & Postman
+
+You can explore and test all API endpoints using the public Postman documentation:
+
+* 🔗 **Postman Docs:** [https://documenter.getpostman.com/view/51642188/2sBXcBoNTo](https://documenter.getpostman.com/view/51642188/2sBXcBoNTo)
+* 📂 **Collection File:** `docs/ecommerce-api.postman_collection.json`
+
+Simply import the collection into Postman or open the public documentation link to try the API endpoints directly.
 
 ---
 
