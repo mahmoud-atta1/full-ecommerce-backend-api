@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛒 Full E-Commerce API
+# 🛒 Full E-Commerce APIs
 
 ### Production-Ready RESTful API for Modern E-Commerce Platforms
 
