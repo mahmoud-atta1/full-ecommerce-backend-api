@@ -691,7 +691,7 @@ Contributions are what make the open-source community amazing! Any contributions
 
 <div align="center">
 
-### ⭐ Star this repo if you find it helpful!
+### ⭐ Star this repo if you find it  helpful!
 
 **[⬆ Back to Top](#-full-e-commerce-backend-api)**
 
