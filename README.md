@@ -50,7 +50,7 @@ A **enterprise-grade** Node.js E-Commerce Backend API featuring advanced authent
   - Reset via email
   - Secure change flow
 - **Account Security**
-  - Email verification
+  - Email verification.
   - Session management
   - Logout functionality
 
