@@ -70,7 +70,7 @@ A **enterprise-grade** Node.js E-Commerce Backend API featuring advanced authent
 - **Advanced Search**
   - Keyword search
   - Filter by category/brand
-  - Price range queries
+  - Price range queries.
 
 </td>
 </tr>
