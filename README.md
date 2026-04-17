@@ -61,7 +61,7 @@ A **enterprise-grade** Node.js E-Commerce Backend API featuring advanced authent
 - **Full CRUD Operations**
   - Categories & Subcategories
   - Brand management
-  - Dynamic slug generation
+  - Dynamic slug generation.
 - **Image Processing**
   - Multi-image upload
   - Auto resize (800x800)
